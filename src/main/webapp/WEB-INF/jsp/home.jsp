@@ -7,7 +7,7 @@
 <title>You've reached home</title>
 </head>
 <body>
-	You've reached home
+	<h3>You've reached home</h3>
 	<div id="result">
 	</div>
 	<button id="requestAjax">Request AJAX</button>
