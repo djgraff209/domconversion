@@ -1,5 +1,6 @@
-domconversion
-=============
+#domconversion 
+
+[![Build Status](https://travis-ci.org/djgraff209/domconversion.svg?branch=master)](https://travis-ci.org/djgraff209/domconversion)
 
 Quick and dirty example on how to use a message-converter to marshal out a DOM document as XML.
 
